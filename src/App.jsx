@@ -1,6 +1,5 @@
 import reactLogo from './assets/react.svg'
 import './App.css'
-import FunctionalComponent from './concepts/functional-component/index1'
 
 function App() {
 
@@ -12,7 +11,6 @@ function App() {
         </a>
       </div>
       <h1>Hello React Guys</h1>
-      <FunctionalComponent />
     </>
   )
 }
