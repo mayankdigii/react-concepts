@@ -21,7 +21,7 @@
 
 <Router>
       <Routes>
-        <Route path="/user/:id" element=`{<User />}` />
+        <Route path="/user/:id" element={<User />} />
       </Routes>
 </Router>
 
