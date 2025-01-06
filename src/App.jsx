@@ -1,5 +1,6 @@
 import reactLogo from './assets/react.svg'
 import './App.css'
+import TimerComponent from './concepts/5.hooks/2.useEffect/index3'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
         </a>
       </div>
       <h1>Hello React Guys</h1>
+      <TimerComponent />
     </>
   )
 }
